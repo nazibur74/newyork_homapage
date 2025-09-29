@@ -28,16 +28,15 @@ This project is a **replica of The New York Times home page** built using **HTML
 ## Project Structure
 
 newyork_homepage/
-│
-├── index.html 
-├── style.css 
+├── index.html
+├── style.css
 ├── images/
-│ ├── 1.png
-│ ├── 2.png
-│ ├── 3.png
-│ └── 4.png
-├── videos/ 
-│ └── 5.mp4
+│   ├── 1.png
+│   ├── 2.png
+│   ├── 3.png
+│   └── 4.png
+├── videos/
+│   └── 5.mp4
 └── README.md
 
 ---
